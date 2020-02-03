@@ -17,7 +17,7 @@ public class Greetings {
 		System.out.println("Greeitings LYIT Students - From L00156762");
 		System.out.println("Try 2");
 		System.out.println("Try 3");
-
+		System.out.println("Change ");
 	}
 
 }
